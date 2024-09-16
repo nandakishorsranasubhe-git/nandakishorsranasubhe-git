@@ -7,7 +7,6 @@
 ---
 
 ### Contact Information
-- 📞 **Phone:** +91 6364085410
 - ✉️ **Email:** [nandakishorsranasubhe2000@gmail.com](mailto:nandakishorsranasubhe2000@gmail.com)
 - 🌍 **Location:** Bangalore, India
 
