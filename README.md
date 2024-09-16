@@ -14,7 +14,7 @@
 ---
 
 ### Summary
-Experienced **Business Data Analyst** with a strong background in interpreting and analyzing data to drive growth and improve business processes. Committed to helping businesses make data-driven decisions.
+Experienced **Data Engineer** with a strong background in interpreting and analyzing data to drive growth and improve business processes. Committed to helping businesses make data-driven decisions.
 
 ---
 
